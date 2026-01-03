@@ -15,5 +15,5 @@ features = ["spin_no_std"]
 
 [[bin]]
 name = "rust-os"
-test = false
+test = true
 bench = false
